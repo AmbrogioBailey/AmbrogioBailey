@@ -18,7 +18,7 @@ Hands-on labs documented with explanations of what I did, what I found, and what
 ### 🔹 (Labs and writeups will populate here as completed)
 
 
-**💼 Operational Background**
+## 💼 Operational Background
 8+ years managing work order lifecycles in a production environment using an enterprise operations system — opening records, tracking vendor activity, enforcing quality gates, initiating non-conformance remediation orders, and maintaining audit-ready documentation across high-volume inventory. This operational discipline maps directly to security operations: process control, incident documentation, and status tracking through resolution.
 
 
