@@ -15,7 +15,7 @@ Every lab and writeup I publish here reflects genuine understanding. That's the 
 
 ## 📂 Security Lab Work
 Hands-on labs documented with explanations of what I did, what I found, and what it means. Each writeup reflects genuine understanding, not just completion.
-### 🔹 (Labs and writeups will populate here as completed)
+### - [TryHackMe Write-ups](https://github.com/AmbrogioBailey/cybersecurity-writeups) — Hands-on defensive and offensive security labs with documented analysis
 
 
 ## 💼 Operational Background
